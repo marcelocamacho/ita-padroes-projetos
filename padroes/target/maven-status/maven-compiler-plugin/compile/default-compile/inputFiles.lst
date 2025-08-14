@@ -1,0 +1,9 @@
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/nullObject/Desconto.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/nullObject/DescontoAbsoluto.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/nullObject/Item.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/staticFactoryMethod/GeradorIntAleatorio.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/strategy/Calculo.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/strategy/CalculoDiaria.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/strategy/CalculoHora.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/strategy/CalculoHoraValorInicial.java
+/home/s948079572/desenvolvimento/ita-padroes/padroes/src/main/java/com/gof/padroes/strategy/TarifaEstacionamento.java
